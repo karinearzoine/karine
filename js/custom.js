@@ -570,7 +570,7 @@
 		            $(form).ajaxSubmit({
 		                type:"POST",
 		                data: $(form).serialize(),
-		                url:"contact.php",
+		                url:"https://getsimpleform.com/messages?form_api_token=c6e0c8be3eff8326402bb9db6c770cf8",
 		                success: function() {
 		                    $('#contactform').clearForm();
 		                    $('#cf-success').css("display", "block").css("opacity", "1");
