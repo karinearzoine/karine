@@ -4,7 +4,7 @@ window.marker = null;
 function initialize() {
 	var map;
 
-	var mymap = new google.maps.LatLng(51.476853, -0.0005);
+	var mymap = new google.maps.LatLng(45.606649, -73.712409);
 
 	var style = [ 
 		{ "featureType": "road", 
