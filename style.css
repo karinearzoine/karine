@@ -2308,7 +2308,8 @@ ol.bjqs-markers li.active-marker { border: 1px solid #84c0e9; padding: 1px; marg
   .btn span { font-size: 14px; }
   .timeline i { font-size: 28px; }
   .timeline h3 { font-size: 19px; }
-  .timeline-left ul { border-right: none; margin-bottom: 36px !important; }
+  .timeline-left ul { margin-bottom: 36px !important; }
+  .timeline-right ul { border-left: none; !important;}
   .timeline-left ul li { margin-right: 0; text-align: center; }
   .timeline-right ul li { margin-left: 0; text-align: center; }
   .timeline ul li { margin-top: 36px !important; }
