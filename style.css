@@ -1874,6 +1874,7 @@ ol.bjqs-markers li.active-marker { border: 1px solid #84c0e9; padding: 1px; marg
 
 #contact {
   display: block;
+  text-align: center;
   visibility: hidden;
   z-index: 0;
 }
