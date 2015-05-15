@@ -298,8 +298,8 @@
         	'readOnly': true,
         	'font': '28px "Poiret One"',
         	'fontWeight': "300",
-        	 parse: function (v) {return parseInt(v);},
-             format: function (v) {return v + "%";}
+        	 parse: function (v) {return v;},
+             format: function (v) {return v;}
         });
     });
 
