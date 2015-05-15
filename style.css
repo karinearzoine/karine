@@ -970,8 +970,8 @@ li#contact-link a.nav-current h3, #contact-link a.nav-current i {
   margin-bottom: 0px;
 }
 
-.timeline-left ul {
-  border-right: 1px solid rgba(255, 255, 255, .4);
+.timeline-right ul {
+  border-left: 1px solid rgba(255, 255, 255, .4);
 }
 
 .timeline-left ul li {
@@ -2311,7 +2311,7 @@ ol.bjqs-markers li.active-marker { border: 1px solid #84c0e9; padding: 1px; marg
   .timeline-left ul { border-right: none; margin-bottom: 36px !important; }
   .timeline-left ul li { margin-right: 0; text-align: center; }
   .timeline-right ul li { margin-left: 0; text-align: center; }
-  .timeline ul li:first-child { margin-top: 36px !important; }
+  .timeline ul li { margin-top: 36px !important; }
   .timeline-right ul { margin-bottom: 0px !important; }
   .timeline ul li span { font-size: 14px; }
   .timeline ul li span:before, .timeline ul li span:after { top: 0px; display: none; }
