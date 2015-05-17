@@ -903,6 +903,44 @@ li#contact-link a.nav-current h3, #contact-link a.nav-current i {
   border-color: #fff;
 }
 
+.btn2 {
+  display: block;
+  position: relative;
+  margin: auto;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, .4);
+  border-radius: 1px;
+  width: 225px;
+  height: 32px;
+  padding: 5px 18px 0 44px;
+  overflow: hidden;
+  margin-top: 36px;
+  -webkit-transition: all .2s linear;
+  -o-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+.btn2 span {
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+
+.btn2 i {
+  display: inline-block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  padding-top: 10px;
+  width: 32px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, .4);
+}
+
+.btn2:hover {
+  background-color: rgba(255, 255, 255, .4);
+  border-color: #fff;
+}
 
 /**
  * ----------------------------------------------------------------------------------------
@@ -947,7 +985,7 @@ li#contact-link a.nav-current h3, #contact-link a.nav-current i {
 .timeline ul {
   display: block;
   position: relative;
-  float: left;
+  float: ;
   padding: 0;
   margin: 0 0 24px;
   list-style: none;
@@ -968,6 +1006,10 @@ li#contact-link a.nav-current h3, #contact-link a.nav-current i {
 
 .timeline ul li:last-child {
   margin-bottom: 0px;
+}
+
+.timeline-left ul {
+  border-right: 1px solid rgba(255, 255, 255, .4);
 }
 
 .timeline-right ul {
@@ -2309,7 +2351,7 @@ ol.bjqs-markers li.active-marker { border: 1px solid #84c0e9; padding: 1px; marg
   .btn span { font-size: 14px; }
   .timeline i { font-size: 28px; }
   .timeline h3 { font-size: 19px; }
-  .timeline-left ul { margin-bottom: 36px !important; }
+  .timeline-left ul { border-right: none; margin-bottom: 36px !important; }
   .timeline-right ul { border-left: none; !important;}
   .timeline-left ul li { margin-right: 0; text-align: center; }
   .timeline-right ul li { margin-left: 0; text-align: center; }
