@@ -99,30 +99,6 @@ li#blog-link a.nav-current h3,
   color: #2cc16b;
 }
 
-/**** PROJECTS ****/
-
-li#project-link a.nav-current {
-  border-color: #3498db;
-}
-li#project-link a.nav-current h3,
-#project-link a.nav-current i {
-  color: #3498db;
-}
-#project,
-#project .cat-pages-title h2,
-.project-single-title h2 {
-  background-color: #3498db;
-}
-.ajax-popup2 {
-  background-color: #3498db;
-}
-.single-project-page .menu a:hover {
-  color: #3498db;
-}
-.single-project-page .sidebar a:hover {
-  color: #3498db;
-}
-
 /**** CONTACT ****/
 li#contact-link a.nav-current {
   border-color: #424242;
