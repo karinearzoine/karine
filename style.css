@@ -1121,8 +1121,8 @@ li#contact-link a.nav-current h3, #contact-link a.nav-current i {
 
 .skill-item {
   position: relative;
-  padding-left: 6%;
-  margin-bottom: 24px;
+  padding-left: 10%;
+  margin-bottom: 30px;
 }
 
 .skill-item input[type="text"] {
@@ -1143,6 +1143,13 @@ li#contact-link a.nav-current h3, #contact-link a.nav-current i {
   letter-spacing: 1px;
   margin: 6px 0 0;
   padding: 0;
+}
+
+.skill-item i {
+  display: block;
+  text-align: center;
+  width: 100px;
+  margin: 6px 0 0;
 }
 
 .skills-title {
