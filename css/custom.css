@@ -29,16 +29,19 @@ li#resume-link a.nav-current h3,
   background-color: #02948E;
 }
 .timeline h3 {
-  border-bottom-color: #f6db6d;
+  border-bottom-color: #fff;
 }
 .timeline-left ul {
-  border-right-color: #f6db6d;
+  border-right-color: #fff;
+}
+.timeline-right ul {
+  border-right-color: #fff;
 }
 .timeline ul li span:before {
-  border-color: #f6db6d;
+  border-color: #fff;
 }
 .timeline ul li span:after {
-  background-color: #f6db6d;
+  background-color: #fff;
 }
 .single-resume-page .menu a:hover {
   color: #02948E;
