@@ -1,32 +1,32 @@
 /**** ABOUT ****/
 li#about-link a.nav-current {
-  border-color: #f66152;
+  border-color: #E55040;
 }
 li#about-link a.nav-current h3,
 li#about-link a.nav-current i {
-  color: #f66152;
+  color: #E55040;
 }
 #about,
 #about .cat-pages-title h2 {
-  background-color: #f66152;
+  background-color: #E55040;
 }
 .single-about-page .menu a:hover {
-  color: #f66152;
+  color: #E55040;
 }
 .single-about-page .sidebar a:hover {
-  color: #f66152;
+  color: #E55040;
 }
 /**** RESUME ****/
 li#resume-link a.nav-current {
-  border-color: #d7af0d;
+  border-color: #02948E;
 }
 li#resume-link a.nav-current h3,
 #resume-link a.nav-current i {
-  color: #d7af0d;
+  color: #02948E;
 }
 #resume,
 #resume .cat-pages-title h2 {
-  background-color: #d7af0d;
+  background-color: #02948E;
 }
 .timeline h3 {
   border-bottom-color: #f6db6d;
@@ -41,28 +41,28 @@ li#resume-link a.nav-current h3,
   background-color: #f6db6d;
 }
 .single-resume-page .menu a:hover {
-  color: #d7af0d;
+  color: #02948E;
 }
 .single-resume-page .sidebar a:hover {
-  color: #d7af0d;
+  color: #02948E;
 }
 /**** PORTFOLIO ****/
 li#portfolio-link a.nav-current {
-  border-color: #3498db;
+  border-color: #0896C5;
 }
 li#portfolio-link a.nav-current h3,
 #portfolio-link a.nav-current i {
-  color: #3498db;
+  color: #0896C5;
 }
 #portfolio,
 #portfolio .cat-pages-title h2 {
-  background-color: #3498db;
+  background-color: #0896C5;
 }
 .quotes ul {
   border-color: #a0cfee;
 }
 .quotes ul:before {
-  background-color: #3498db;
+  background-color: #0896C5;
 }
 ol.bjqs-markers li a {
   background-color: #a0cfee;
@@ -71,48 +71,48 @@ ol.bjqs-markers li.active-marker {
   border-color: #a0cfee;
 }
 .single-portfolio-page .menu a:hover {
-  color: #3498db;
+  color: #0896C5;
 }
 .single-portfolio-page .sidebar a:hover {
-  color: #3498db;
+  color: #0896C5;
 }
 /**** BLOG ****/
 li#blog-link a.nav-current {
-  border-color: #2cc16b;
+  border-color: #424380;
 }
 li#blog-link a.nav-current h3,
 #blog-link a.nav-current i {
-  color: #2cc16b;
+  color: #424380;
 }
 #blog,
 #blog .cat-pages-title h2,
 .blog-single-title h2 {
-  background-color: #2cc16b;
+  background-color: #424380;
 }
 .ajax-popup {
-  background-color: #2cc16b;
+  background-color: #424380;
 }
 .single-blog-page .menu a:hover {
-  color: #2cc16b;
+  color: #424380;
 }
 .single-blog-page .sidebar a:hover {
-  color: #2cc16b;
+  color: #424380;
 }
 
 /**** CONTACT ****/
 li#contact-link a.nav-current {
-  border-color: #424242;
+  border-color: #34495E;
 }
 li#contact-link a.nav-current h3,
 #contact-link a.nav-current i {
-  color: #424242;
+  color: #34495E;
 }
 #contact,
 #contact .cat-pages-title h2 {
-  background-color: #424242;
+  background-color: #34495E;
 }
 .single-contact-page .menu a:hover {
-  color: #424242;
+  color: #34495E;
 }
 .single-contact-page .sidebar a:hover {
   color: #424242;
