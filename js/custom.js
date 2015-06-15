@@ -182,10 +182,6 @@
 		    });
 		});
 
-$(window).bind('beforeunload', function(){
-    return"This is a one page website.";
-});
-
 	 $(function() {
 
 	 	    "use strict";
