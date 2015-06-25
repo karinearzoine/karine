@@ -1,32 +1,32 @@
 /**** ABOUT ****/
 li#about-link a.nav-current {
-  border-color: #D95280;
+  border-color: #9C8292;
 }
 li#about-link a.nav-current h3,
 li#about-link a.nav-current i {
-  color: #D95280;
+  color: #9C8292;
 }
 #about,
 #about .cat-pages-title h2 {
-  background-color: #D95280;
+  background-color: #9C8292;
 }
 .single-about-page .menu a:hover {
-  color: #D95280;
+  color: #9C8292;
 }
 .single-about-page .sidebar a:hover {
-  color: #D95280;
+  color: #9C8292;
 }
 /**** RESUME ****/
 li#resume-link a.nav-current {
-  border-color: #02AB07;
+  border-color: #AED1AD;
 }
 li#resume-link a.nav-current h3,
 #resume-link a.nav-current i {
-  color: #02AB07;
+  color: #AED1AD;
 }
 #resume,
 #resume .cat-pages-title h2 {
-  background-color: #02AB07;
+  background-color: #AED1AD;
 }
 .timeline h3 {
   border-bottom-color: #fff;
@@ -44,10 +44,10 @@ li#resume-link a.nav-current h3,
   background-color: #fff;
 }
 .single-resume-page .menu a:hover {
-  color: #02AB07;
+  color: #AED1AD;
 }
 .single-resume-page .sidebar a:hover {
-  color: #02AB07;
+  color: #AED1AD;
 }
 /**** PORTFOLIO ****/
 li#portfolio-link a.nav-current {
