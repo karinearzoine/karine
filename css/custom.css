@@ -18,15 +18,15 @@ li#about-link a.nav-current i {
 }
 /**** RESUME ****/
 li#resume-link a.nav-current {
-  border-color: #AED1AD;
+  border-color: #849E83;
 }
 li#resume-link a.nav-current h3,
 #resume-link a.nav-current i {
-  color: #AED1AD;
+  color: #849E83;
 }
 #resume,
 #resume .cat-pages-title h2 {
-  background-color: #AED1AD;
+  background-color: #849E83;
 }
 .timeline h3 {
   border-bottom-color: #fff;
@@ -44,10 +44,10 @@ li#resume-link a.nav-current h3,
   background-color: #fff;
 }
 .single-resume-page .menu a:hover {
-  color: #AED1AD;
+  color: #849E83;
 }
 .single-resume-page .sidebar a:hover {
-  color: #AED1AD;
+  color: #849E83;
 }
 /**** PORTFOLIO ****/
 li#portfolio-link a.nav-current {
