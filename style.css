@@ -221,8 +221,9 @@ h6 {
 }
 
 .main-content h2 {
-  font-family: "Poiret One", sans-serif;
-  font-size: 40px;
+  font-family: 'Dancing Script', cursive;
+  text-transform:capitalize;
+  font-size: 100px;
   margin: 0 0 18px;
   padding: 0;
 }
