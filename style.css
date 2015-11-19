@@ -1371,7 +1371,7 @@ li#contact-link a.nav-current h3, #contact-link a.nav-current i {
   position: relative;
   margin: 0 auto;
   padding: 24px;
-  border: 1px solid #84c0e9;
+  border: 1px solid #fff;
   border-radius: 1px;
   list-style: none;
   min-height: 170px;
@@ -1453,8 +1453,8 @@ ul.bjqs-controls.v-centered li.bjqs-prev a{left:0;}
 ol.bjqs-markers{list-style: none; padding: 0; margin: -12px 0 0; width:100%;}
 ol.bjqs-markers.h-centered{text-align: center;}
 ol.bjqs-markers li {display:inline-block; list-style: none; float: none; margin: 0 4px; padding: 0;}
-ol.bjqs-markers li a {content: ""; display:block; width: 10px; height: 10px; background-color: #84c0e9; padding: 0; margin: 0;}
-ol.bjqs-markers li.active-marker { border: 1px solid #84c0e9; padding: 1px; margin: 0 4px -2px;}
+ol.bjqs-markers li a {content: ""; display:block; width: 10px; height: 10px; background-color: #fff; padding: 0; margin: 0;}
+ol.bjqs-markers li.active-marker { border: 1px solid #fff; padding: 1px; margin: 0 4px -2px;}
 
 
 /**
