@@ -81,25 +81,25 @@ ol.bjqs-markers li.active-marker {
 }
 /**** BLOG ****/
 li#blog-link a.nav-current {
-  border-color: #E0806E;
+  border-color: #0F956E;
 }
 li#blog-link a.nav-current h3,
 #blog-link a.nav-current i {
-  color: #E0806E;
+  color: #0F956E;
 }
 #blog,
 #blog .cat-pages-title h2,
 .blog-single-title h2 {
-  background-color: #E0806E;
+  background-color: #0F956E;
 }
 .ajax-popup {
-  background-color: #E0806E;
+  background-color: #0F956E;
 }
 .single-blog-page .menu a:hover {
-  color: #E0806E;
+  color: #0F956E;
 }
 .single-blog-page .sidebar a:hover {
-  color: #E0806E;
+  color: #0F956E;
 }
 
 /**** CONTACT ****/
