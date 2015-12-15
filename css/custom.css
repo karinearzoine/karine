@@ -51,21 +51,21 @@ li#resume-link a.nav-current h3,
 }
 /**** PORTFOLIO ****/
 li#portfolio-link a.nav-current {
-  border-color: #0F350A;
+  border-color: #742747;
 }
 li#portfolio-link a.nav-current h3,
 #portfolio-link a.nav-current i {
-  color: #0F350A;
+  color: #742747;
 }
 #portfolio,
 #portfolio .cat-pages-title h2 {
-  background-color: #0F350A;
+  background-color: #742747;
 }
 .quotes ul {
   border-color: #fff;
 }
 .quotes ul:before {
-  background-color: #0F350A;
+  background-color: #742747;
 }
 ol.bjqs-markers li a {
   background-color: #fff;
@@ -74,10 +74,10 @@ ol.bjqs-markers li.active-marker {
   border-color: #fff;
 }
 .single-portfolio-page .menu a:hover {
-  color: #0F350A;
+  color: #742747;
 }
 .single-portfolio-page .sidebar a:hover {
-  color: #0F350A;
+  color: #742747;
 }
 /**** BLOG ****/
 li#blog-link a.nav-current {
